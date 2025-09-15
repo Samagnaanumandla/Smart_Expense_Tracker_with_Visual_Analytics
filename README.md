@@ -22,15 +22,6 @@ Smart-Expense-Tracker/
 ├── requirements.txt      # Dependencies
 └── README.md             # Project documentation
 
-Getting Started:
-1. Clone the repository
-git clone https://github.com/Samagnaanumandla/smart-expense-tracker.git
-cd smart-expense-tracker
-2. Install dependencies
-pip install -r requirements.txt
-3. Run the tracker
-python tracker.py
-
 Sample Output (Visualization):
 Bar chart showing category-wise expenses
 Line chart for monthly spending trends
