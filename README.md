@@ -24,7 +24,7 @@ Smart-Expense-Tracker/
 
 Getting Started:
 1. Clone the repository
-git clone https://github.com/your-username/smart-expense-tracker.git
+git clone https://github.com/Samagnaanumandla/smart-expense-tracker.git
 cd smart-expense-tracker
 2. Install dependencies
 pip install -r requirements.txt
